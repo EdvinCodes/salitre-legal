@@ -53,7 +53,7 @@ proveedores de servicios necesarios para el funcionamiento de la app:
 - **Supabase** (base de datos y almacenamiento) — [supabase.com/privacy](https://supabase.com/privacy)
 - **RevenueCat** (gestión de suscripciones) — [revenuecat.com/privacy](https://www.revenuecat.com/privacy)
 - **Open-Meteo** (datos meteorológicos) — servicio de datos abiertos, sin datos personales
-- **WorldTides** (datos de mareas) — sin datos personales
+- **StormGlass** (datos de mareas y oleaje) — [stormglass.io/privacy](https://stormglass.io/privacy)
 
 ## 5. Retención de datos
 
